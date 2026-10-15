@@ -1,32 +1,41 @@
+<div align="center">
+
 # Kuvlay Naman
 
-**B.Tech student at DTU · C++ · Backend and full-stack development**
+**C++ systems · Backend engineering · Full-stack applications**
 
-I am pursuing a B.Tech in Production & Industrial Engineering at Delhi Technological University (2024–2028), with a focus on software development through hands-on projects. My interests are backend systems, network programming, and useful web applications.
+B.Tech, Delhi Technological University · Class of 2028
 
-## Featured projects
+[Projects](#selected-projects) · [Technical focus](#technical-focus) · [All repositories](https://github.com/kuvlay?tab=repositories)
 
-| Project | What to explore | Main technologies |
+</div>
+
+---
+
+I build projects to understand the layers behind an application: how a message reaches disk, how a server handles a connection, and how a web interface connects to services. I am pursuing Production & Industrial Engineering at DTU and developing my software engineering skills through hands-on work.
+
+## Selected projects
+
+| Project | Engineering focus | Explore |
 | --- | --- | --- |
-| [Kafka-Inspired Message Broker](https://github.com/kuvlay/kafka-broker) | TCP framing, protocol parsing, append-only message storage and consumer offsets. | C++17, POSIX sockets, CMake |
-| [C++ HTTP / WebSocket Server](https://github.com/kuvlay/http-server-cpp) | HTTP/1.1 routing, TLS connections, gzip responses, file routes and WebSocket echo. | C++, OpenSSL, zlib, POSIX sockets |
-| [AI Mock Interview Platform](https://github.com/kuvlay/ai_mock_interview) | Role-specific questions, voice sessions, structured feedback and PDF resume review. [Live demo](https://ai-mock-interview-roan-phi.vercel.app/sign-in) | Next.js, TypeScript, Firebase, Gemini, Retell AI |
+| **Kafka-Inspired Message Broker** | C++17 messaging with append-only storage, recovery, consumer groups and an epoll server mode. | [Repository & architecture](https://github.com/kuvlay/kafka-broker) |
+| **C++ HTTP / WebSocket Server** | HTTP/1.1 parsing, TLS, persistent connections, gzip and WebSocket frames over POSIX sockets. | [Repository & local examples](https://github.com/kuvlay/http-server-cpp) |
+| **AI Mock Interview Platform** | Next.js and TypeScript application with Firebase sessions, Gemini feedback and Retell voice interviews. | [Repository](https://github.com/kuvlay/ai_mock_interview) · [Demo](https://ai-mock-interview-roan-phi.vercel.app/sign-in) |
+| **C++ Physics Playground** | Fixed-step simulation, circle collision response and interactive visualization with raylib and WebAssembly. | [Repository & controls](https://github.com/kuvlay/cpp-physics-playground) |
 
-Each project README explains setup, implementation scope and limitations. The AI demo currently opens a sign-in screen; voice sessions require external service configuration.
+Project guides include setup commands, implementation details and the current scope. The AI demo starts at sign-in and uses external AI and voice services.
 
 ## Technical focus
 
-- **Languages:** C, C++, JavaScript, TypeScript, HTML, CSS
-- **Web development:** React, Next.js, Node.js, Express, REST APIs, JWT authentication
-- **Data and tooling:** MongoDB, Firebase, Firestore, Git, GitHub, Docker, Postman
-- **Foundations:** Data structures and algorithms, object-oriented programming, database design
+| Area | Technologies |
+| --- | --- |
+| Languages | C, C++, JavaScript, TypeScript, HTML, CSS |
+| Web & backend | React, Next.js, Node.js, Express, REST APIs, JWT authentication |
+| Data & tools | MongoDB, Firebase, Firestore, Git, Docker, Postman |
+| Foundations | Data structures and algorithms, OOP, database design, network programming |
 
-## More work
+## Beyond the repository
 
-[Browse all repositories →](https://github.com/kuvlay?tab=repositories)
+**Head, SkillOps Society · DTU** — organizing coding workshops and project-based learning activities.
 
-The portfolio includes web applications, systems experiments and development tooling. Imported repositories retain source attribution through fork history or a provenance document.
-
-## Beyond code
-
-Head of SkillOps Society at DTU, organizing coding workshops and project-based learning activities. Seeking software engineering and backend development internships.
+Interested in software engineering and backend development internships where I can contribute, learn from code reviews, and work through real implementation problems.
