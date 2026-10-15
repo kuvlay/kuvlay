@@ -21,7 +21,7 @@ I build projects to understand the layers behind an application: how a message r
 | **Kafka-Inspired Message Broker** | C++17 messaging with append-only storage, recovery, consumer groups and an epoll server mode. | [Repository & architecture](https://github.com/kuvlay/kafka-broker) |
 | **C++ HTTP / WebSocket Server** | HTTP/1.1 parsing, TLS, persistent connections, gzip and WebSocket frames over POSIX sockets. | [Repository & local examples](https://github.com/kuvlay/http-server-cpp) |
 | **AI Mock Interview Platform** | Next.js and TypeScript application with Firebase sessions, Gemini feedback and Retell voice interviews. | [Repository](https://github.com/kuvlay/ai_mock_interview) · [Demo](https://ai-mock-interview-roan-phi.vercel.app/sign-in) |
-| **C++ Physics Playground** | Fixed-step simulation, circle collision response and interactive visualization with raylib and WebAssembly. | [Repository & controls](https://github.com/kuvlay/cpp-physics-playground) |
+| **C++ Physics Playground** | Fixed-step simulation, circle collision response and interactive visualization with raylib and WebAssembly. | [Repository & controls](https://github.com/kuvlay/cpp-physics-playground) · [Play demo](https://kuvlay.github.io/cpp-physics-playground/) |
 
 Project guides include setup commands, implementation details and the current scope. The AI demo starts at sign-in and uses external AI and voice services.
 
