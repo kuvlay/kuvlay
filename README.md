@@ -8,9 +8,9 @@ I am pursuing a B.Tech in Production & Industrial Engineering at Delhi Technolog
 
 | Project | What to explore | Main technologies |
 | --- | --- | --- |
-| [AI Mock Interview Platform](https://github.com/kuvlay/ai_mock_interview) | Role-specific questions, voice sessions, structured feedback and PDF resume review. [Live demo](https://ai-mock-interview-roan-phi.vercel.app/sign-in) | Next.js, TypeScript, Firebase, Gemini, Retell AI |
 | [Kafka-Inspired Message Broker](https://github.com/kuvlay/kafka-broker) | TCP framing, protocol parsing, append-only message storage and consumer offsets. | C++17, POSIX sockets, CMake |
 | [C++ HTTP / WebSocket Server](https://github.com/kuvlay/http-server-cpp) | HTTP/1.1 routing, TLS connections, gzip responses, file routes and WebSocket echo. | C++, OpenSSL, zlib, POSIX sockets |
+| [AI Mock Interview Platform](https://github.com/kuvlay/ai_mock_interview) | Role-specific questions, voice sessions, structured feedback and PDF resume review. [Live demo](https://ai-mock-interview-roan-phi.vercel.app/sign-in) | Next.js, TypeScript, Firebase, Gemini, Retell AI |
 
 Each project README explains setup, implementation scope and limitations. The AI demo currently opens a sign-in screen; voice sessions require external service configuration.
 
@@ -29,4 +29,4 @@ The portfolio includes web applications, systems experiments and development too
 
 ## Beyond code
 
-Co-Head of SkillOps Society at DTU, organizing coding workshops and project-based learning activities. Seeking software engineering and backend development internships.
+Head of SkillOps Society at DTU, organizing coding workshops and project-based learning activities. Seeking software engineering and backend development internships.
